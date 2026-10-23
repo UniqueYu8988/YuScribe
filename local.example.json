@@ -1,0 +1,5 @@
+{
+  "python": "C:/path/to/isolated-runtime/Scripts/python.exe",
+  "packages": "C:/path/to/qwen-asr-packages",
+  "model": "C:/path/to/Qwen3-ASR-0.6B"
+}
